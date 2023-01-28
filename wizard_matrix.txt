@@ -3,7 +3,7 @@ version="2.0.2"
 zip="https://github.com/2019dark/DarkPortalWizard/raw/main/plugin.program.darkportalwizard.zip"
 
 name="Dark Portal Wizard PC"
-version=" 3.4"
+version=" 1.0"
 url="https://github.com/2019dark/DarkPortalWizard/raw/master/darkportalwizard.zip"
 minor="https://"
 gui="http://"
