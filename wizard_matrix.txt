@@ -4,7 +4,7 @@ zip="hhttps://github.com/2019dark/DarkPortalWizard/raw/main/plugin.program.darkp
 
 name="Dark Portal Wizard Global Kodi19 "
 version=" 1.0"
-url="hhttps://github.com/2019dark/DarkPortalWizard/raw/main/plugin.program.darkportalwizard.zip"
+url="https://github.com/2019dark/DarkPortalWizard/raw/master/darkportalwizardK19.zip"
 minor="https://"
 gui="http://"
 kodi=" 19"
@@ -18,7 +18,7 @@ description="Dark Portal Wizard para Kodi 19.[CR]"
 
 name="Dark Portal Wizard Global Kodi20 "
 version=" 1.0"
-url="hhttps://github.com/2019dark/DarkPortalWizard/raw/main/plugin.program.darkportalwizard.zip"
+url="https://github.com/2019dark/DarkPortalWizard/raw/master/darkportalwizardK20.zip"
 minor="https://"
 gui="http://"
 kodi=" 19"
